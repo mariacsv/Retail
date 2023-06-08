@@ -1,0 +1,70 @@
+Task
+
+Assess the performance of the chain's sales outlets.
+
+Carry out exploratory data analysis
+
+Assess the performance of the sales outlets
+
+Test statistical hypotheses
+
+Optional: visualize your findings
+
+Define the goal:
+
+What do you want to achieve and why?
+
+Who's interested in what you produce?
+
+What decisions will be made based on your analysis?
+
+What do you want to achieve and why?
+
+Learn to predict the probability of churn for each customer
+
+Compare the time since the last purchase with the probability of churn
+
+Find the share of members and non members of loyality program
+
+Find the retention of the cohort
+
+Suggest measures to cut churn
+
+Who's interested in what you produce?
+
+Home World
+
+Customers
+
+What decisions will be made based on your analysis?
+
+Is the loyalty program beneficial for the company?
+
+Are customers satisfied with the loyalty program?
+
+Draw conclusions and formulate recommendations regarding the strategy for customer interaction and retention.
+
+Propose Hypotheses
+
+Loyal customers haven't bought anything for a long time
+Action plan
+
+Data preprocessing
+
+Exploratory data analysis
+
+Look into the relationship between revenue growth and the probability of churn.
+
+Identify the relationship between payment frequency and the probability of churn.
+
+Compare the time since the last purchase with the probability of churn.
+
+— For each customer, find the date of the last purchase.
+
+— Use this data to split the customers into n categories.
+
+— For each category, calculate the share of the customers who left.
+
+— Within each category, define extra indices (e.g. total sum of payments, total number of purchases).
+
+— Draw conclusions: how time since the last purchase relates to customers' indices. — Draw conclusions: how time since the last purchase relates to churn.
